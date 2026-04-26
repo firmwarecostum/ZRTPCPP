@@ -16,7 +16,7 @@
 #
 # @author Werner Dittmann <Werner.Dittmann@t-online.de>
 
-cmake_minimum_required (VERSION 2.6)
+cmake_minimum_required(VERSION 3.5...4.0)
 
 # setup the Thread include and lib
 find_package(Threads)
