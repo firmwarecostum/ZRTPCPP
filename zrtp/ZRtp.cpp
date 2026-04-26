@@ -18,6 +18,7 @@
  * Authors: Werner Dittmann <Werner.Dittmann@t-online.de>
  */
 #include <sstream>
+#include <stdint.h>
 
 #include <crypto/zrtpDH.h>
 #include <crypto/hmac256.h>
